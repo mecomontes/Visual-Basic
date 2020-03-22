@@ -1,0 +1,27 @@
+C:\Users\Manuel Zapata\AppData\Local\Temporary Projects\FinalDelosconductores\obj\x86\Debug\FinalDelosconductores.Form1.resources
+C:\Users\Manuel Zapata\AppData\Local\Temporary Projects\FinalDelosconductores\obj\x86\Debug\FinalDelosconductores.Resources.resources
+C:\Users\Manuel Zapata\AppData\Local\Temporary Projects\FinalDelosconductores\obj\x86\Debug\FinalDelosconductores.vbproj.GenerateResource.Cache
+C:\Users\Manuel Zapata\AppData\Local\Temporary Projects\FinalDelosconductores\bin\Debug\FinalDelosconductores.exe
+C:\Users\Manuel Zapata\AppData\Local\Temporary Projects\FinalDelosconductores\bin\Debug\FinalDelosconductores.pdb
+C:\Users\Manuel Zapata\AppData\Local\Temporary Projects\FinalDelosconductores\bin\Debug\FinalDelosconductores.xml
+C:\Users\Manuel Zapata\AppData\Local\Temporary Projects\FinalDelosconductores\obj\x86\Debug\FinalDelosconductores.exe
+C:\Users\Manuel Zapata\AppData\Local\Temporary Projects\FinalDelosconductores\obj\x86\Debug\FinalDelosconductores.xml
+C:\Users\Manuel Zapata\AppData\Local\Temporary Projects\FinalDelosconductores\obj\x86\Debug\FinalDelosconductores.pdb
+C:\Users\Manuel Zapata\documents\visual studio 2010\Projects\FinalDelosconductores\FinalDelosconductores\obj\x86\Debug\FinalDelosconductores.exe
+C:\Users\Manuel Zapata\documents\visual studio 2010\Projects\FinalDelosconductores\FinalDelosconductores\obj\x86\Debug\FinalDelosconductores.xml
+C:\Users\Manuel Zapata\documents\visual studio 2010\Projects\FinalDelosconductores\FinalDelosconductores\obj\x86\Debug\FinalDelosconductores.pdb
+C:\Users\Manuel Zapata\documents\visual studio 2010\Projects\FinalDelosconductores\FinalDelosconductores\bin\Debug\FinalDelosconductores.exe
+C:\Users\Manuel Zapata\documents\visual studio 2010\Projects\FinalDelosconductores\FinalDelosconductores\bin\Debug\FinalDelosconductores.pdb
+C:\Users\Manuel Zapata\documents\visual studio 2010\Projects\FinalDelosconductores\FinalDelosconductores\bin\Debug\FinalDelosconductores.xml
+C:\Users\Manuel Zapata\documents\visual studio 2010\Projects\FinalDelosconductores\FinalDelosconductores\obj\x86\Debug\FinalDelosconductores.Form1.resources
+C:\Users\Manuel Zapata\documents\visual studio 2010\Projects\FinalDelosconductores\FinalDelosconductores\obj\x86\Debug\FinalDelosconductores.Resources.resources
+C:\Users\Manuel Zapata\documents\visual studio 2010\Projects\FinalDelosconductores\FinalDelosconductores\obj\x86\Debug\FinalDelosconductores.vbproj.GenerateResource.Cache
+C:\Users\Meco-Anis\Desktop\meco\VB\Projects\FinalDelosconductores\FinalDelosconductores\obj\x86\Debug\FinalDelosconductores.exe
+C:\Users\Meco-Anis\Desktop\meco\VB\Projects\FinalDelosconductores\FinalDelosconductores\obj\x86\Debug\FinalDelosconductores.xml
+C:\Users\Meco-Anis\Desktop\meco\VB\Projects\FinalDelosconductores\FinalDelosconductores\obj\x86\Debug\FinalDelosconductores.pdb
+C:\Users\Meco-Anis\Desktop\meco\VB\Projects\FinalDelosconductores\FinalDelosconductores\bin\Debug\FinalDelosconductores.exe
+C:\Users\Meco-Anis\Desktop\meco\VB\Projects\FinalDelosconductores\FinalDelosconductores\bin\Debug\FinalDelosconductores.pdb
+C:\Users\Meco-Anis\Desktop\meco\VB\Projects\FinalDelosconductores\FinalDelosconductores\bin\Debug\FinalDelosconductores.xml
+C:\Users\Meco-Anis\Desktop\meco\VB\Projects\FinalDelosconductores\FinalDelosconductores\obj\x86\Debug\FinalDelosconductores.Form1.resources
+C:\Users\Meco-Anis\Desktop\meco\VB\Projects\FinalDelosconductores\FinalDelosconductores\obj\x86\Debug\FinalDelosconductores.Resources.resources
+C:\Users\Meco-Anis\Desktop\meco\VB\Projects\FinalDelosconductores\FinalDelosconductores\obj\x86\Debug\FinalDelosconductores.vbproj.GenerateResource.Cache

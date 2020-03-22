@@ -1,0 +1,24 @@
+c:\users\user\documents\visual studio 2013\Projects\final viernes\final viernes\bin\Debug\final viernes.exe.config
+c:\users\user\documents\visual studio 2013\Projects\final viernes\final viernes\bin\Debug\final viernes.exe
+c:\users\user\documents\visual studio 2013\Projects\final viernes\final viernes\bin\Debug\final viernes.pdb
+c:\users\user\documents\visual studio 2013\Projects\final viernes\final viernes\bin\Debug\final viernes.xml
+c:\users\user\documents\visual studio 2013\Projects\final viernes\final viernes\obj\Debug\final_viernes.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\final viernes\final viernes\obj\Debug\final_viernes.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\final viernes\final viernes\obj\Debug\final viernes.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\final viernes\final viernes\obj\Debug\final viernes.exe
+c:\users\user\documents\visual studio 2013\Projects\final viernes\final viernes\obj\Debug\final viernes.xml
+c:\users\user\documents\visual studio 2013\Projects\final viernes\final viernes\obj\Debug\final viernes.pdb
+C:\Users\Meco-Anis\Desktop\final viernes\final viernes\bin\Debug\final viernes.exe.config
+C:\Users\Meco-Anis\Desktop\final viernes\final viernes\obj\Debug\final viernes.exe
+C:\Users\Meco-Anis\Desktop\final viernes\final viernes\obj\Debug\final viernes.xml
+C:\Users\Meco-Anis\Desktop\final viernes\final viernes\obj\Debug\final viernes.pdb
+C:\Users\Meco-Anis\Desktop\final viernes\final viernes\bin\Debug\final viernes.exe
+C:\Users\Meco-Anis\Desktop\final viernes\final viernes\bin\Debug\final viernes.pdb
+C:\Users\Meco-Anis\Desktop\final viernes\final viernes\bin\Debug\final viernes.xml
+C:\Users\Meco-Anis\Desktop\final viernes\final viernes\obj\Debug\final_viernes.Form1.resources
+C:\Users\Meco-Anis\Desktop\final viernes\final viernes\obj\Debug\final_viernes.Resources.resources
+C:\Users\Meco-Anis\Desktop\final viernes\final viernes\obj\Debug\final viernes.vbproj.GenerateResource.Cache
+C:\Users\Meco-Anis\Desktop\meco\VB\Projects\rutas\final viernes\bin\Debug\final viernes.exe.config
+C:\Users\Meco-Anis\Desktop\meco\VB\Projects\rutas\final viernes\obj\Debug\final viernes.exe
+C:\Users\Meco-Anis\Desktop\meco\VB\Projects\rutas\final viernes\obj\Debug\final viernes.xml
+C:\Users\Meco-Anis\Desktop\meco\VB\Projects\rutas\final viernes\obj\Debug\final viernes.pdb

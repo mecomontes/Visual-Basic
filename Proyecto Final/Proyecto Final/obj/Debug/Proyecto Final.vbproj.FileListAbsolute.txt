@@ -1,0 +1,10 @@
+C:\Users\andre\Desktop\desarrollo\VISUAL\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe.config
+C:\Users\andre\Desktop\desarrollo\VISUAL\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.exe
+C:\Users\andre\Desktop\desarrollo\VISUAL\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.pdb
+C:\Users\andre\Desktop\desarrollo\VISUAL\Proyecto Final\Proyecto Final\bin\Debug\Proyecto Final.xml
+C:\Users\andre\Desktop\desarrollo\VISUAL\Proyecto Final\Proyecto Final\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\andre\Desktop\desarrollo\VISUAL\Proyecto Final\Proyecto Final\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\andre\Desktop\desarrollo\VISUAL\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.vbproj.GenerateResource.Cache
+C:\Users\andre\Desktop\desarrollo\VISUAL\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.exe
+C:\Users\andre\Desktop\desarrollo\VISUAL\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.xml
+C:\Users\andre\Desktop\desarrollo\VISUAL\Proyecto Final\Proyecto Final\obj\Debug\Proyecto Final.pdb
